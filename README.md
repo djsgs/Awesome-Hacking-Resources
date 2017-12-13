@@ -45,6 +45,8 @@ Learning the Skills
 * [SecurityTube](http://www.securitytube.net/) - tube-styled content, "megaprimer" videos covering various topics, no readable content on site.
 * [Seed Labs](http://www.cis.syr.edu/~wedu/seed/labs.html) - academic content, well organized, featuring lab videos, tasks, needed code files, and recommended readings
 * [Hak5](https://www.hak5.org/) - podcast-style videos covering various topics, has a forum, "metasploit-minute" video series could be useful
+* [rootsh3ll](https://rootsh3ll.com/blog) - blog-style articles covering depths of wireless penetration testing and security, has a free forum: https://members.rootsh3ll.com
+
 * [OWASP top 10 web security risks](https://www.online.hack2secure.com/courses/owasp-top10-web-security-risk) - free courseware, requires account
 * [MIT OCW 6.858 Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/) - academic content, well organized, full-semester course, includes assigned readings, lectures, videos, required lab files.
 
@@ -267,6 +269,7 @@ Exploits
 
 Forums
 --
+* [rootsh3ll Member's Area](https://members.rootsh3ll.com) - A Forum for WiFI Security Enthusiasts
 * [Greysec](https://greysec.net) - hacking and security forum
 * [Hackforums](https://hackforums.net/) - posting webstite for hacks/exploits/various discussion
 * [0x00sec](https://0x00sec.org/) - hacker, malware, computer engineering, Reverse engineering
